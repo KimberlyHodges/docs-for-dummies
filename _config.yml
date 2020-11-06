@@ -1,1 +1,4 @@
-theme: just-the-docs
+# Use remote theme for GH Pages
+remote_theme: pmarsceill/just-the-docs
+
+# theme: just-the-docs
