@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Bixal Methodology
 ---
 
-# Hello world!
+# Bixal Methodology
